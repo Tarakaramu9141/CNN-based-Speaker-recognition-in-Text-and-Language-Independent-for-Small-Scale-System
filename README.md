@@ -1,0 +1,1 @@
+# CNN-based-Speaker-recognition-in-Text-and-Language-Independent-for-Small-Scale-System
